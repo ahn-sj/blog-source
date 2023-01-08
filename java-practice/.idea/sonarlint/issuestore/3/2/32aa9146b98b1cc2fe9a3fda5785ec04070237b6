@@ -1,8 +1,0 @@
-
-Z
-java:S1854	"8Remove this useless assignment to local variable "list".(»°ò’şÿÿÿÿ8Ÿ²—‚Ù0
-K
-java:S1481	")Remove this unused "list" local variable.(»°ò’şÿÿÿÿ8 ²—‚Ù0
-U	java:S106"9Replace this use of System.out or System.err by a logger.(ŸõÊÒ8¨”µÙ0
-V
-java:S1144"4Remove this unused private "printCollection" method.(à´ßÆıÿÿÿÿ8¡²—‚Ù0
