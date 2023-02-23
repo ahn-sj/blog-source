@@ -1,0 +1,8 @@
+### register
+POST localhost:8080/register
+Content-Type: application/json
+
+{
+  "name": "멈재",
+  "memberShip": "STANDARD"
+}
