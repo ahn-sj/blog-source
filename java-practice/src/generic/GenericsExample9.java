@@ -5,24 +5,24 @@ import java.util.List;
 
 public class GenericsExample9 {
     public static void main(String[] args) {
-        FruitBox<Fruit> fruitBox = new FruitBox<>();
-        FruitBox<Apple> appleBox = new FruitBox<>();
-
-        System.out.println(Juicer.makeJuice(fruitBox));
-        System.out.println(Juicer.makeJuice(appleBox));
+//        FruitBox<Fruit> fruitBox = new FruitBox<>();
+//        FruitBox<Apple> appleBox = new FruitBox<>();
+//
+//        System.out.println(Juicer.makeJuice(fruitBox));
+//        System.out.println(Juicer.makeJuice(appleBox));
     }
 }
 
 class Juicer {
-    static <T extends Fruit> Juice makeJuice(FruitBox<T> box) {
-        return new Juice("juice");
-    }
+//    static <T extends Fruit> Juice makeJuice(FruitBox<T> box) {
+//        return new Juice("juice");
+//    }
 }
 
 class Fruit {}
 class Apple extends Fruit {}
 
-class FruitBox<T extends Fruit> extends Box<T> {}
+//class FruitBox<T extends Fruit> extends Box<T> {}
 class Juice {
     String name;
 

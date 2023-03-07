@@ -10,22 +10,22 @@ public class GenericsExample8 {
     }
 }
 
-class ShoeBox<T extends Shoe> {
-    private T t;
-
-    public T get() {
-        return t;
-    }
-
-    public void set(T t) {
-        this.t = t;
-    }
-}
-
-class Shoe {}
-class Jordon extends Shoe {}
-class AirForce extends Shoe {}
-
-class Cap {}
+//class ShoeBox<T extends Shoe> {
+//    private T t;
+//
+//    public T get() {
+//        return t;
+//    }
+//
+//    public void set(T t) {
+//        this.t = t;
+//    }
+//}
+//
+//class Shoe {}
+//class Jordon extends Shoe {}
+//class AirForce extends Shoe {}
+//
+//class Cap {}
 
 

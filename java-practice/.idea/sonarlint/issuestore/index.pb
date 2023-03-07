@@ -9,3 +9,25 @@
 +src/equalityandidentity/EqalAndIdenEx3.java,2\f\2f459cc843c72dd5dd535204aa38e5f2409ef273
 [
 +src/equalityandidentity/EqalAndIdenEx4.java,6\7\67856161d7892eb95da1bd92b5eb1add19054060
+Q
+!src/generic/InconvariantTest.java,3\2\32aa9146b98b1cc2fe9a3fda5785ec04070237b6
+O
+src/generic/ConvariantTest.java,3\8\38974e7ea94340feed6215e26844a656976477c2
+Q
+!src/generic/GenericsExample1.java,f\4\f441ca03f05bcd856d4ea08bf5302c3af1ad2a58
+Q
+!src/generic/GenericsExample3.java,0\9\095581b8462bf74609948fb1f186ce00ff1206ad
+Q
+!src/generic/GenericsExample2.java,1\5\154a87430a0cf68df08d67f56734a4aadafebfcb
+Q
+!src/generic/GenericsExample4.java,0\7\07a181a3aa06f6fe9ecc921f24d7497e289dc982
+Q
+!src/generic/GenericsExample6.java,a\6\a6b32ddc438f1058a35b4b6fa38eb7c8623b47d3
+Q
+!src/generic/GenericsExample8.java,d\e\decd28e82f7744f4c0b48b2f60264c1f88ac02f9
+Q
+!src/generic/GenericsExample7.java,3\c\3c973b8d436af2e9b2545da24702c012bf4d31a5
+Q
+!src/generic/GenericsExample5.java,6\c\6c68a99b60c4e832634e78f3af2602d31c61dc77
+Q
+!src/generic/GenericsExample9.java,9\3\93154ae6801fa59e8cdea09fea92b09290018c75
