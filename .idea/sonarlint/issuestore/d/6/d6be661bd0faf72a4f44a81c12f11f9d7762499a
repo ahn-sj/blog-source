@@ -1,0 +1,25 @@
+
+J
+java:S3740	"/Provide the parametrized type for this generic.(á´êúøÿÿÿÿ
+V
+java:S1854";Remove this useless assignment to local variable "integer".(™ïÕ²ıÿÿÿÿ
+<
+java:S2129
+"!Remove this "Integer" constructor(á§ÇÒşÿÿÿÿ
+J
+java:S1874
+"/Remove this use of "Integer"; it is deprecated.(á§ÇÒşÿÿÿÿ
+7
+java:S2129"!Remove this "Integer" constructor(ù»Œ
+E
+java:S1874"/Remove this use of "Integer"; it is deprecated.(ù»Œ
+G
+java:S1481",Remove this unused "integer" local variable.(™ïÕ²ıÿÿÿÿ
+7
+java:S2129"!Remove this "Integer" constructor(áî”
+E
+java:S1874"/Remove this use of "Integer"; it is deprecated.(áî”
+<
+java:S2129"!Remove this "Integer" constructor(£ıü¾ÿÿÿÿÿ
+J
+java:S1874"/Remove this use of "Integer"; it is deprecated.(£ıü¾ÿÿÿÿÿ
