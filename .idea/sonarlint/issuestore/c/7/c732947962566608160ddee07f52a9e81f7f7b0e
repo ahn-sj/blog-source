@@ -1,0 +1,9 @@
+
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üúçùøÿÿÿÿ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’­†‰ùÿÿÿÿ
+\
+java:S2133"FRemove this object instantiation and use "DefaultClass.class" instead.(‹—
+N	java:S106"9Replace this use of System.out or System.err by a logger.(„‚¸÷
+\
+java:S2133"ARemove this object instantiation and use "MyClass.class" instead.(òÛ¢¬ûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÁïÍ·ûÿÿÿÿ

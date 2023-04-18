@@ -1,0 +1,7 @@
+
+]
+java:S2133"@Remove this object instantiation and use "Parent.class" instead.(ñ›ûĞ8œËññ0
+\
+java:S2133"?Remove this object instantiation and use "Child.class" instead.(›ıÁî8Ëññ0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¯ó‰Œ8ŸËññ0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ªû‚ãıÿÿÿÿ8ŸËññ0

@@ -27,15 +27,17 @@ Q
 !src/generic/GenericsExample6.java,a\6\a6b32ddc438f1058a35b4b6fa38eb7c8623b47d3
 Q
 !src/generic/GenericsExample8.java,d\e\decd28e82f7744f4c0b48b2f60264c1f88ac02f9
-O
-src/generic/ConvariantTest.java,3\8\38974e7ea94340feed6215e26844a656976477c2
 Q
 !src/generic/GenericsExample9.java,9\3\93154ae6801fa59e8cdea09fea92b09290018c75
-R
-"src/annotation/AnnotationTest.java,9\b\9b3a532554b536416534cf17d66ebbc2c51f2c38
-Q
-!src/annotation/RetentionTest.java,b\d\bd98e37b0b2152f5aa11ed6b88825b46a1c93f27
 T
 $src/annotation/CustomAnnotation.java,8\f\8f3778aa35c461c3e4855d6e9e140ec43ad3e5ab
+R
+"src/annotation/AnnotationTest.java,9\b\9b3a532554b536416534cf17d66ebbc2c51f2c38
 W
 'src/annotation/RetentionAnnotation.java,f\0\f0d12d07c9906ccc85001a40e86f3d40314d9589
+Q
+!src/annotation/RetentionTest.java,b\d\bd98e37b0b2152f5aa11ed6b88825b46a1c93f27
+O
+src/generic/ConvariantTest.java,3\8\38974e7ea94340feed6215e26844a656976477c2
+M
+src/singleton/BottleTest.java,f\d\fd16fbcd553d9811df4e10d074fb3b26aeae1501
