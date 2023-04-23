@@ -1,0 +1,20 @@
+
+¢
+java:S1130"„Remove the declaration of thrown exception 'java.lang.reflect.InvocationTargetException', as it cannot be thrown from method's body.(ÄÁ …8ò¡Ð¤ù0
+•
+java:S1130"xRemove the declaration of thrown exception 'java.lang.NoSuchMethodException', as it cannot be thrown from method's body.(ÄÁ …8ò¡Ð¤ù0
+–
+java:S1130"yRemove the declaration of thrown exception 'java.lang.InstantiationException', as it cannot be thrown from method's body.(ÄÁ …8ò¡Ð¤ù0
+–
+java:S1130"yRemove the declaration of thrown exception 'java.lang.IllegalAccessException', as it cannot be thrown from method's body.(ÄÁ …8ò¡Ð¤ù0
+X	java:S125
+"<This block of commented-out lines of code should be removed.(¸…šâ8ó¡Ð¤ù0
+I
+java:S3011",This accessibility update should be removed.(òÿÝ³8õ¡Ð¤ù0
+U	java:S106"9Replace this use of System.out or System.err by a logger.( ÎµÁ8õ¡Ð¤ù0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ô×àýÿÿÿÿ8ö¡Ð¤ù0
+T	java:S106,"9Replace this use of System.out or System.err by a logger.(€£±m8û¡Ð¤ù0
+H
+java:S24402"&Remove this instantiation of "Bottle".(áÎºúÿÿÿÿ8ý¡Ð¤ù0
+W
+java:S1144"5Remove this unused private "attackReflection" method.(”§ãˆûÿÿÿÿ8þ¡Ð¤ù0
