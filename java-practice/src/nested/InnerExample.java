@@ -2,6 +2,8 @@ package nested;
 
 import java.io.IOException;
 import java.util.ArrayList;
+import java.util.Collections;
+import java.util.Comparator;
 import java.util.List;
 
 public class InnerExample {
@@ -16,14 +18,22 @@ public class InnerExample {
 //            list.add(new Outer.StaticInner());
 //        }
 
+        List<Integer> list = new ArrayList<>();
+        Collections.sort(list, new Comparator<Integer>() {
+            @Override
+            public int compare(Integer n1, Integer n2) {
+                return n1 - n2;
+            }
+        });
+
         Outer.StaticInner staticInner = new Outer.StaticInner();
-        Outer.NonStaticInner nonStaticInner = new Outer().new NonStaticInner();
+        // Outer.NonStaticInner nonStaticInner = new Outer().new NonStaticInner();
 
         System.gc();
         System.out.println("GC 동작 완료");
 
         staticInner.printOuterField();
-        nonStaticInner.printOuterField();
+        // nonStaticInner.printOuterField();
 
 //         System.in.read(); // VisualVm HeapDump 시점
     }
