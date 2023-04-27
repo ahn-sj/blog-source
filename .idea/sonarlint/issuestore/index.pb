@@ -46,7 +46,5 @@ b
 2java-practice/src/annotation/CustomAnnotation.java,f\3\f348ff17907ca6a470e6ea5bc40b7af466f42d47
 `
 0java-practice/src/annotation/AnnotationTest.java,c\7\c732947962566608160ddee07f52a9e81f7f7b0e
-[
-+java-practice/src/singleton/BottleTest.java,5\5\55c1772ac148169fa556ec7759ed5e03913c2e58
 Y
 )java-practice/src/singleton/LoadTest.java,a\0\a0eb435a5d42606b0a919b1b0c4c8ae6147e650b
