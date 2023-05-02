@@ -48,3 +48,9 @@ b
 0java-practice/src/annotation/AnnotationTest.java,c\7\c732947962566608160ddee07f52a9e81f7f7b0e
 Y
 )java-practice/src/singleton/LoadTest.java,a\0\a0eb435a5d42606b0a919b1b0c4c8ae6147e650b
+Y
+)java-practice/src/map/HashMapExample.java,b\0\b05c375c1762aeb7aa7c5c8f6558a50654ef640c
+Y
+)java-practice/src/nested/NestedClass.java,1\7\177200359cea2933956a1b1c4e6c55deffc56ad7
+i
+9java-practice/src/singleton/EnumBottleReflectionTest.java,e\e\eea4721881ec26e1c456489703d514390afd29ea
