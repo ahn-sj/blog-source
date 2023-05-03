@@ -1,0 +1,31 @@
+
+W	java:S125"<This block of commented-out lines of code should be removed.(ªäÄ8½€æü0
+j
+java:S1215"TDon't try to be smarter than the JVM, remove this call to run the garbage collector.(Ì°¬“
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ù©€©şÿÿÿÿ8ëìÍåü0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÍåÖ¯8ôå½æü0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(±£ˆ8©»çü0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ì€Îşÿÿÿÿ8Ø”çü0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(×ôğÔ8Ø”çü0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(’êıÿÿÿÿ8Ø”çü0
+X	java:S125*"<This block of commented-out lines of code should be removed.(ø” 8óå½æü0
+]	java:S125="<This block of commented-out lines of code should be removed.(¯ÿÀàüÿÿÿÿ8ôå½æü0
+U	java:S106E"9Replace this use of System.out or System.err by a logger.(û˜¦—8Û”çü0
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8ª»çü0
+T
+java:S1128"2Remove this unused import 'java.util.Collections'.(¢³ïÓşÿÿÿÿ8ª»çü0
+N
+java:S1128"1Remove this unused import 'java.util.Comparator'.(î¹ó¹8ª»çü0
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8ª»çü0
+J
+java:S10687"(Remove this unused "ints" private field.(·ãÍ°üÿÿÿÿ8Ê»•çü0
+B
+java:S1068:"&Remove this unused "in" private field.(Á™î8õå½æü0
+H
+java:S1068B"&Remove this unused "in" private field.(ï–ñ¨úÿÿÿÿ8öå½æü0
+V
+java:S1144%"9Remove this unused private "createNonStaticInner" method.(æƒÎĞ8³îŒçü0
+G
+java:S1144)"*Remove this unused private "test2" method.(ŒÍöí8öå½æü0

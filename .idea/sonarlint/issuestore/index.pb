@@ -54,3 +54,29 @@ Y
 )java-practice/src/nested/NestedClass.java,1\7\177200359cea2933956a1b1c4e6c55deffc56ad7
 i
 9java-practice/src/singleton/EnumBottleReflectionTest.java,e\e\eea4721881ec26e1c456489703d514390afd29ea
+k
+;java-practice/src/singleton/EnumBottleSerializableTest.java,5\2\5234a07848727138a88cd521a2319c2555726353
+_
+/java-practice/src/singleton/EnumBottleTest.java,2\d\2d872a46c4c38cb6deb42066f89c3c74973492e8
+[
++java-practice/src/singleton/BottleTest.java,5\5\55c1772ac148169fa556ec7759ed5e03913c2e58
+[
++java-practice/src/singleton/NestedTest.java,a\6\a68428547739cb6cec61929e813f194cad39dcba
+Z
+*java-practice/src/nested/InnerExample.java,a\2\a2435bf47210861508a4399e7062f5cddc9ce5e6
+P
+ java-practice/src/uml/Board.java,4\4\44e17e30cc98282acb4346f82d410bc7481386f2
+O
+java-practice/src/uml/Crew.java,2\b\2ba0e4c2e9f6d2141f942e8c83d01f35ace0644f
+\
+,java-practice/src/uml/MemberServiceImpl.java,5\1\5179d00a16a3154c28a3df1ea6a85ff6896f0bdc
+Q
+!java-practice/src/uml/School.java,9\7\97aae1edf72b547353f26eb308512947399a499b
+R
+"java-practice/src/uml/Student.java,e\7\e785e07eb2686cf5276cbc93761b261b4b1eb607
+W
+'java-practice/src/uml/SpeedUtility.java,0\c\0cccbdc29149b71d4e588530850f6fb1a04c388b
+R
+"java-practice/src/uml/Teacher.java,9\e\9ee84cfb856cb865d59235ed388ff7b921922ae3
+O
+java-practice/src/uml/User.java,a\a\aaed420f3a88414e7ca8c1c108e354c75d2ac382
