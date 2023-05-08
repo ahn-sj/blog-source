@@ -10,3 +10,6 @@ public class Board {
 class Comment {
     private String content;
 }
+
+
+
