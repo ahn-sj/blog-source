@@ -60,3 +60,11 @@ _
 /java-practice/src/singleton/EnumBottleTest.java,2\d\2d872a46c4c38cb6deb42066f89c3c74973492e8
 [
 +java-practice/src/singleton/BottleTest.java,5\5\55c1772ac148169fa556ec7759ed5e03913c2e58
+Z
+*java-practice/src/nested/InnerExample.java,a\2\a2435bf47210861508a4399e7062f5cddc9ce5e6
+R
+"java-practice/src/uml/Teacher.java,9\e\9ee84cfb856cb865d59235ed388ff7b921922ae3
+W
+'java-practice/src/uml/SpeedUtility.java,0\c\0cccbdc29149b71d4e588530850f6fb1a04c388b
+Q
+!java-practice/src/uml/School.java,9\7\97aae1edf72b547353f26eb308512947399a499b

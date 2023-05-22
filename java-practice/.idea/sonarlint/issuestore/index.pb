@@ -41,3 +41,7 @@ O
 src/generic/ConvariantTest.java,3\8\38974e7ea94340feed6215e26844a656976477c2
 M
 src/singleton/BottleTest.java,f\d\fd16fbcd553d9811df4e10d074fb3b26aeae1501
+N
+src/codingtest/RestAPI_04.java,c\c\cce5f7851060037bf66efef3fa155c5dd8347c2b
+N
+src/codingtest/OddList_01.java,0\5\0535302ed51ac38866537632c442df02de1e8fd5
