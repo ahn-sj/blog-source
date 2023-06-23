@@ -1,0 +1,15 @@
+
+)
+java:S1700"Rename field "tags"(þê”¯
+]	java:S125"<This block of commented-out lines of code should be removed.(êŸ¡üÿÿÿÿÿ8ƒÖ›„1
+h
+java:S6204"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹
+h
+java:S6204!"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹
+>
+java:S1068	"(Remove this unused "tags" private field.(Å„¿ú
+D
+java:S1068
+")Remove this unused "title" private field.(åõò¹ýÿÿÿÿ
+>
+java:S1068"(Remove this unused "tags" private field.(þê”¯

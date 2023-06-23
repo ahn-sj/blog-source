@@ -20,14 +20,8 @@ _
 0java-practice/src/generic/GenericsExample13.java,a\e\aea5feaebd54dc3a9c2032a770beb2c725451d00
 _
 /java-practice/src/generic/GenericsExample6.java,7\c\7cccbe0f91e7f7ef9a9da3d9c90c9a351f36c7f1
-_
-/java-practice/src/generic/GenericsExample4.java,e\8\e8c80adcbf093dd15b704844a785cca7f98ad502
-_
-/java-practice/src/generic/GenericsExample1.java,d\6\d6be661bd0faf72a4f44a81c12f11f9d7762499a
 `
 0java-practice/src/generic/GenericsExample10.java,4\a\4a187b2010dcd7cd2e7828f32e65b00ebd859cf8
-_
-/java-practice/src/generic/GenericsExample2.java,9\b\9b43127e9bd1c7dcc6b4adea4a5f261207007b00
 _
 /java-practice/src/annotation/RetentionTest.java,b\c\bcd8f1f5462727839ae1e32a9c575aa38175626c
 e
@@ -68,3 +62,45 @@ W
 'java-practice/src/uml/SpeedUtility.java,0\c\0cccbdc29149b71d4e588530850f6fb1a04c388b
 Q
 !java-practice/src/uml/School.java,9\7\97aae1edf72b547353f26eb308512947399a499b
+O
+java-practice/src/uml/User.java,a\a\aaed420f3a88414e7ca8c1c108e354c75d2ac382
+R
+"java-practice/src/uml/Student.java,e\7\e785e07eb2686cf5276cbc93761b261b4b1eb607
+T
+$java-practice/src/uml/Collegian.java,2\6\263121494954cb133add70d20bc1b3539c161272
+T
+$java-practice/src/uml/StarCraft.java,c\2\c221881f494a6fe708197275004e826fcb9e617d
+O
+java-practice/src/uml/Crew.java,2\b\2ba0e4c2e9f6d2141f942e8c83d01f35ace0644f
+P
+ java-practice/src/uml/Board.java,4\4\44e17e30cc98282acb4346f82d410bc7481386f2
+P
+ java-practice/src/uml/Outer.java,6\2\625c4fd71e1d2716452a2d3d2adf7c0e9e529b19
+a
+1java-practice/src/firstclasscollection/Board.java,a\f\afe1b9300e293f9eea21f93d5b5ab0ccc65fe93d
+a
+1java-practice/src/firstclasscollection/Ducks.java,c\c\cc556ffedea69e38708b35a5637da45310310ad0
+h
+8java-practice/src/firstclasscollection/BoardService.java,8\a\8a17bae8559f5533fa12ecee9bb5632313d5d268
+\
+,java-practice/src/uml/MemberServiceImpl.java,5\1\5179d00a16a3154c28a3df1ea6a85ff6896f0bdc
+R
+"java-practice/src/uml/Creator.java,2\2\2292b8c1363dac55df887f72a1c7d4c29fec431f
+[
++java-practice/src/singleton/NestedTest.java,a\6\a68428547739cb6cec61929e813f194cad39dcba
+g
+7java-practice/src/firstclasscollection/MutableMain.java,d\a\daf384d4eaa19d9be30a356bfa7bb2ff26942a11
+]
+-java-practice/src/generic/ConvariantTest.java,4\a\4acc404b7ec2428aef9276870f1e1973a571a25e
+_
+/java-practice/src/generic/GenericsExample1.java,d\6\d6be661bd0faf72a4f44a81c12f11f9d7762499a
+_
+/java-practice/src/generic/GenericsExample4.java,e\8\e8c80adcbf093dd15b704844a785cca7f98ad502
+_
+/java-practice/src/generic/GenericsExample2.java,9\b\9b43127e9bd1c7dcc6b4adea4a5f261207007b00
+_
+/java-practice/src/generic/GenericsExample3.java,4\0\40435a3792b0f8bb1ce7500d73b6e0b6dfd26fb1
+\
+,java-practice/src/codingtest/OddList_01.java,4\5\4579db6ba813808148c515486a5e3039dedda519
+b
+2java-practice/src/generic/GenericsTypeErasure.java,9\8\985e117765787ec8e2db86af24c00341cb932454

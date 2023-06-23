@@ -1,0 +1,10 @@
+
+Q
+java:S3740"/Provide the parametrized type for this generic.(ÕëºÁùÿÿÿÿ8ˆ°‹ªˆ1
+X	java:S125
+"<This block of commented-out lines of code should be removed.(ðíÊù8ìµ‰ªˆ1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÔÄŠÆ8°ü€ªˆ1
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8’°‹ªˆ1
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8’°‹ªˆ1
